@@ -1,4 +1,4 @@
-🍕 Pizzería Mamma Mía – Hito 5
+# 🍕 Pizzería Mamma Mía – Hito 5
 
 En este quinto hito del proyecto React + Vite, integré React Router DOM para manejar la navegación entre páginas sin recargar el sitio.
 Aprendí a estructurar mi aplicación como una SPA (Single Page Application), organizando las vistas dentro de src/pages/ y conectándolas mediante rutas declaradas en App.jsx.
@@ -175,7 +175,6 @@ git push
 Y activé GitHub Pages → 
 Branch: main
 Folder: /docs
-# 🍕 Pizzería Mamma Mía – Hito 5
 [Ver demo en GitHub Pages](https://patriciovergara.github.io/pizzeria-mamma-mia-h5/)
 
 🧠 10) Conclusión
